@@ -8,7 +8,9 @@ Estudo programação com cursos na plataforma Udemy, vídeos no Youtube, artigos
 
 - Comecei os estudos com HTML5, CSS3 e Javascript.
 - Avancei para o back-end usando Node.js e Express, construindo APIs básicas.
-- Atualmente, estudo Java com Spring Boot e Angular.
+- Me consolidei estudando Java com Spring Boot e Angular.
+- Atualmente meu foco é total em Java com Spring Boot.
+- As vezes, por puro lazer, escrevo alguns códigos com linguaguens como Go, Rust e C#.  
 
 ## 🚀 Skills
 
