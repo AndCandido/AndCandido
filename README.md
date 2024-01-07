@@ -2,7 +2,7 @@
 
 ### 👨‍💻 Sobre mim
 
-Estudo programação com cursos na plataforma Udemy e assisto vídeos no Youtube para aprimorar minhas habilidades. Também gosto de construir projetos pessoais.
+Estudo programação com cursos na plataforma Udemy, vídeos no Youtube, artigos e documentações na internet, e crio projetos pessoais para aprimorar minhas habilidades com base no que estudo no momento.
 
 ### 📘 Minha evolução nos estudos
 
