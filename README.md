@@ -8,8 +8,8 @@ Estudo programação com cursos na plataforma Udemy, vídeos no Youtube, artigos
 
 - Comecei os estudos com HTML5, CSS3 e Javascript.
 - Avancei para o back-end usando Node.js e Express, construindo APIs básicas.
-- Me consolidei estudando Java com Spring Boot e Angular.
-- Atualmente meu foco é total em Java com Spring Boot.
+- Me consolidei estudando **Java** com **Spring Boot** e **Angular**.
+- Atualmente meu foco é total em **Java** com **Spring Boot**.
 
 ## 🚀 Skills
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndCandido&layout=compact&bg_color=233&text_color=fff)
